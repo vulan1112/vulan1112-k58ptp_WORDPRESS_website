@@ -35,3 +35,12 @@ viết lại và nhấn Cài đặt WordPress là ok
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/586f3f11-3f43-4b97-b4f2-6a3db13bfeff" />
 
+<img width="1913" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c28466d-4c87-4d28-8b17-24c7da5c0bb4" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2af5fbdf-a584-44e7-99d0-74e6373935ff" />
+
+Tạo bài viết mới
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/274ee893-c26c-4eee-a7e3-c9fcad443c0a" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9470b398-7bd1-4935-89ac-eb1a57e36a76" />
