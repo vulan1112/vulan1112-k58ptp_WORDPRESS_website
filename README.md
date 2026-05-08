@@ -59,4 +59,13 @@ Website sau khi đổi giao diện
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a8b97ae-5a6a-4c66-be77-aadeabe18051" />
 
+#  kết nối Cloudflare
+
+Kết nối Ubuntu của bạn với tài khoản Cloudflare
+
+Cấp quyền cho máy Ubuntu quản lý domain:  vulan2k4bg.id.vn
+
+Cho phép Ubuntu tạo Cloudflare Tunnel
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48e841c5-a117-4290-b563-d1f720e4e055" />
 
