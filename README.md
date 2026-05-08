@@ -44,3 +44,19 @@ Tạo bài viết mới
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/274ee893-c26c-4eee-a7e3-c9fcad443c0a" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9470b398-7bd1-4935-89ac-eb1a57e36a76" />
+
+Bài viết số 2
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b2851af5-2c12-43bf-9da9-51ac7f0e35a0" />
+
+Đổi giao diện
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/391b3230-4de3-4a21-82de-fb86ee8f62d7" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1e808e79-7ad4-49bb-84a4-f071c9ca82fe" />
+
+Website sau khi đổi giao diện
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1a8b97ae-5a6a-4c66-be77-aadeabe18051" />
+
+
