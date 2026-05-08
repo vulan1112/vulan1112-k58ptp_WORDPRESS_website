@@ -69,3 +69,6 @@ Cho phép Ubuntu tạo Cloudflare Tunnel
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/48e841c5-a117-4290-b563-d1f720e4e055" />
 
+lỗi
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dfb8c8b9-fe2e-45ae-bb31-0e2f7ea33bf1" />
