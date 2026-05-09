@@ -94,3 +94,13 @@ Tạo DNS route ok
 <img width="1902" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5de721b-98da-4d89-9f8a-094cdfdd943b" />
 
 <img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/c4a9817b-759b-4727-bd15-da03846ef393" />
+
+**Qua bài tập 03 sử dụng WordPress để tạo website, em thấy WordPress là một mã nguồn mở khá tiện lợi cho những người mới học làm web. Việc cài đặt cơ bản không quá khó vì có sẵn nhiều tài liệu hướng dẫn và cộng đồng hỗ trợ lớn. Khi kết hợp với Docker thì việc triển khai các service như MariaDB, phpMyAdmin và WordPress cũng rõ ràng hơn, dễ quản lý hơn so với cài trực tiếp trên máy.**
+
+**Tuy nhiên trong quá trình làm em gặp khá nhiều lỗi về cấu hình, đặc biệt là phần Cloudflare Tunnel, DNS, port Docker và kết nối giữa các container. Có những lỗi nhỏ nhưng mất khá nhiều thời gian để tìm nguyên nhân và sửa. Em thấy phần khó nhất không phải tạo bài viết trên WordPress mà là cấu hình hệ thống để website hoạt động ổn định từ internet.**
+
+**Về giao diện và quản lý nội dung thì WordPress khá dễ dùng. Chỉ cần vài thao tác là có thể tạo bài viết, thêm ảnh, video, âm thanh hoặc thay đổi giao diện website mà không cần viết nhiều code.**
+
+**Về tài nguyên máy chủ, WordPress dùng tương đối nhiều RAM hơn so với các web tĩnh đơn giản. Khi chạy cùng Docker, MariaDB, phpMyAdmin và Cloudflare Tunnel thì máy Ubuntu cần RAM ổn định để tránh chậm hoặc treo. Ngoài ra còn cần dung lượng ổ cứng để lưu image Docker và dữ liệu website. Trong quá trình làm em cũng thấy CPU và RAM tăng lên khi chạy nhiều container cùng lúc.**
+
+**Sau khi hoàn thành bài tập, em thấy WordPress phù hợp để xây dựng website nhanh, dễ quản trị nội dung và dễ mở rộng. Tuy nhiên nếu muốn hệ thống hoạt động ổn định thì cần hiểu thêm về Docker, mạng, DNS và quản lý server Linux. Web em đang xây dựng cũng tương tự nhưng vẫn bị mắc do ram bị tràn.**
