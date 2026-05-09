@@ -72,3 +72,23 @@ Cho phép Ubuntu tạo Cloudflare Tunnel
 lỗi
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dfb8c8b9-fe2e-45ae-bb31-0e2f7ea33bf1" />
+
+tunnel
+
+<img width="1903" height="532" alt="image" src="https://github.com/user-attachments/assets/1cd404f5-3651-4d7d-8153-66c1ca8f17b7" />
+
+Tạo config.yml
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b883915-e4f3-4d71-b4d6-f7eaacb9ff21" />
+
+Tạo DNS route ok
+
+<img width="1616" height="151" alt="image" src="https://github.com/user-attachments/assets/4772ba9c-0a2f-4745-9aab-93f0e2a4f1f2" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f43a0928-5cf7-46fd-aba4-5a78d9bab43b" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e67f8a8a-7958-44a2-95c5-d69a96512b42" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6009f013-5e84-4e0a-b6dd-c7637a67520c" />
+
+<img width="1902" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5de721b-98da-4d89-9f8a-094cdfdd943b" />
