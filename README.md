@@ -92,3 +92,5 @@ Tạo DNS route ok
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6009f013-5e84-4e0a-b6dd-c7637a67520c" />
 
 <img width="1902" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5de721b-98da-4d89-9f8a-094cdfdd943b" />
+
+<img width="1184" height="2560" alt="image" src="https://github.com/user-attachments/assets/c4a9817b-759b-4727-bd15-da03846ef393" />
